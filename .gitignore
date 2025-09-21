@@ -1,0 +1,8 @@
+# Binaries
+# /Golang-JWT-Auth-api
+*.exe
+*.out
+*.test
+
+# Go cache
+# /vendor/
